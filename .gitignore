@@ -1,2 +1,13 @@
 data/
 test*/
+*.zip
+__pycache__/
+runs/
+None*/
+!centernet-train.ipynb
+!centernet-baseline.ipynb
+*.ipynb
+centernet*/
+2024*/
+
+*.pth
